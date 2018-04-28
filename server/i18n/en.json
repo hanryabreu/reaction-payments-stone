@@ -1,0 +1,27 @@
+[{
+  "language": "English",
+  "i18n": "en",
+  "ns": "stone-gateway",
+  "translation": {
+    "reaction-payments": {
+      "admin": {
+        "shortcut": {
+          "stonePaymentProviderLabel": "Stone Gateway",
+          "stonePaymentProviderTitle": "Stone Gateway"
+        },
+        "dashboard": {
+          "stonePaymentProviderLabel": "Stone Gateway",
+          "stonePaymentProviderTitle": "Stone Gateway",
+          "stonePaymentProviderDescription": "Stone Gateway Method"
+        },
+        "paymentSettings": {
+          "stonePaymentLabel": "stone Provider",
+          "stonePaymentSettingsLabel": "Stone Gateway",
+          "stoneCredentials": "This is an Stone Gateway method setting.",
+          "apiClientId": "Your MerchantKey",
+          "supportedMethodsLabel": "Payment provider supported methods"
+        }
+      }
+    }
+  }
+}]
